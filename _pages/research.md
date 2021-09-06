@@ -8,7 +8,7 @@ page_order: 2
 ---
 
 **Preprints**
-Coming soon. 
+- On the involutive Heegaard Floer homology of negative semi-definite plumbed 3-manifolds with $$b_{1}=1$$. [arXiv:2108.13548](https://arxiv.org/abs/2108.13548) 
 
 **Awards**
 - [Jefferson Scholars Foundation Research Prize, 2021](https://www.jeffersonscholars.org){:target="_blank"}
