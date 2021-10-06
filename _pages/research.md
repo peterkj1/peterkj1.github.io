@@ -8,20 +8,21 @@ page_order: 2
 ---
 
 **Preprints**
-- On the involutive Heegaard Floer homology of negative semi-definite plumbed 3-manifolds with $$b_{1}=1$$. [arXiv:2108.13548](https://arxiv.org/abs/2108.13548) 
+- Lattice cohomology and $$q$$-series invariants of $$3$$-manifolds, with
+R. Akhmechet and V. Krushkal [arXiv:2109.14139](https://arxiv.org/abs/2109.14139)
+- On the involutive Heegaard Floer homology of negative semi-definite plumbed 3-manifolds with $$b_{1}=1$$. [arXiv:2108.13548](https://arxiv.org/abs/2108.13548)
 
 **Awards**
 - [Jefferson Scholars Foundation Research Prize, 2021](https://www.jeffersonscholars.org){:target="_blank"}
 
 **Talks**
-- [A zero surgery obstruction from involutive Heegaard Floer Homology, University
- of Alabama Algebra-Topology Seminar, March 2021 (virtual)](https://btosun.people.ua.edu/seminars.html){:target="_blank"}
-- [A zero surgery obstruction from involutive Heegaard Floer Homology, UVa
-Geometry Seminar, March 2021 (virtual)](https://math.virginia.edu/seminars/geometry/2020-21/){:target="_blank"}
-- [An Introduction to Seifert Fibered Spaces, UVa Graduate Student Seminar,
-April 2020 (virtual)](https://math.virginia.edu/seminars/gradsem/2019-20/){:target="_blank"}
-- [Lightning Talk: Small Seifert Fibered Zero Surgery, Georgia Tech Topology
-Conference, December 2019](https://etnyre.math.gatech.edu/TechTopology/2019/schedule.html){:target="_blank"}
+- Rutgers University - Topology/Geometry Seminar, September 2021 (virtual)
+- University of Maryland - Geometry-Topology Seminar, September 2021 
+- Michigan State University - Geometry and Topology Seminar, September 2021 (virtual)
+- University of Alabama - Algebra-Topology Seminar, March 2021 (virtual)
+- University of Virginia - Geometry Seminar, March 2021 (virtual)
+- University of Virginia - Graduate Student Seminar, April 2020 (virtual)
+- Georgia Tech Topology Conference - Lightning Talk, December 2019
 
 **Conferences**
 - [Tech Topology Conference, Georgia Institute of Technology, Atlanta,

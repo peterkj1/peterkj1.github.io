@@ -35,4 +35,6 @@ I am interested in low-dimensional topology. More specifically, I use tools from
 symplectic topology and gauge theory to study 3 and 4 dimensional manifolds.
 Most recently, I have been working on using involutive Heegaard Floer
 homology and lattice cohomology to obstruct certain 3-manifolds from being
-obtained by zero surgery on a knot in the three sphere.
+obtained by zero surgery on a knot in the three sphere. I have also been
+exploring connections between lattice cohomology, Heegaard Floer homology, and
+the $$\widehat{Z}$$ invariant.
