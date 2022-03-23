@@ -16,8 +16,11 @@ R. Akhmechet and V. Krushkal [arXiv:2109.14139](https://arxiv.org/abs/2109.14139
 - [Jefferson Scholars Foundation Research Prize, 2021](https://www.jeffersonscholars.org){:target="_blank"}
 
 **Talks**
+- University of Richmond - Math and Computer Science Colloquium, February 2022
+- University of Michigan - Topology Seminar, January 2022
+- University of Virginia - Geometry Seminar, November 2021
 - Rutgers University - Topology/Geometry Seminar, September 2021 (virtual)
-- University of Maryland - Geometry-Topology Seminar, September 2021 
+- University of Maryland - Geometry-Topology Seminar, September 2021
 - Michigan State University - Geometry and Topology Seminar, September 2021 (virtual)
 - University of Alabama - Algebra-Topology Seminar, March 2021 (virtual)
 - University of Virginia - Geometry Seminar, March 2021 (virtual)
