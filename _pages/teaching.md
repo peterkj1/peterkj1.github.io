@@ -25,11 +25,8 @@ page_order: 3
 - Fall 2020
 - Fall 2018
 
-**Current Teaching at the University of Virginia**
-- [Math 1320 Calculus II, Fall 2021](https://louslist.org/sectiontip.php?Semester=1218&ClassNumber=13269){:target="_blank"}
-
 **Courses I Have Previously Taught at the University of Virginia**
-
+- [Math 1320 Calculus II, Fall 2021](https://louslist.org/sectiontip.php?Semester=1218&ClassNumber=13269){:target="_blank"}
 - [Math 1140 Financial Mathematics, Fall 2020 (online)](https://louslist.org/sectiontip.php?Semester=1208&ClassNumber=15477){:target="_blank"}
 - [Math 1320 Calculus II, Fall 2018](https://louslist.org/sectiontip.php?Semester=1188&ClassNumber=10416){:target="_blank"}
 - [Math 1210 A Survey of Calculus I, Spring 2018](https://louslist.org/sectiontip.php?Semester=1182&ClassNumber=11123){:target="_blank"}
