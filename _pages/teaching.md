@@ -26,7 +26,7 @@ page_order: 3
 - Fall 2018
 
 **Courses I am Currently Teaching at Michigan State University**
--[MTH 103A College Algebra I, sections 010 and 012](https://reg.msu.edu/Courses/Search.aspx?SubjectCode=mth&Term=current&CourseNumber=103A#Results){:target="_blank"}
+- [MTH 103A College Algebra I, sections 010 and 012](https://reg.msu.edu/Courses/Search.aspx?SubjectCode=mth&Term=current&CourseNumber=103A#Results){:target="_blank"}
 
 **Courses I Have Previously Taught at the University of Virginia**
 - [Math 1320 Calculus II, Fall 2021](https://louslist.org/sectiontip.php?Semester=1218&ClassNumber=13269){:target="_blank"}
