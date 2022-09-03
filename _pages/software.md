@@ -12,4 +12,4 @@ My GitHub page: [https://github.com/peterkj1](https://github.com/peterkj1)
 **Projects**
 
 - [Plum](https://github.com/peterkj1/plum): A SageMath package for analyzing plumbed manifolds.
-- [latex2blender](https://github.com/ghseeli/latex2blender): An add-on for using LaTeX in Blender.
+- [latex2blender](https://github.com/ghseeli/latex2blender): An add-on for using LaTeX in Blender developed with my friend [George Seelinger](https://ghseeli.github.io).
