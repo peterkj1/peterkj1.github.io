@@ -7,36 +7,42 @@ nav: true
 page_order: 3
 ---
 
-**Awards**
-- [All-University Graduate Teaching Award, 2021](https://math.virginia.edu/2021/04/GTA-Awards/){:target="_blank"}
+**Courses taught at Michigan State University**
+-Spring 2024
+  - Course coordinator for MTH 299 Transitions.
+  - MTH 299 Transitions, 1 section.
+-Fall 2023
+    -MTH 132 Calculus I, 1 section.
+    -MTH 132 Calculus I recitation, 2 sections and curriculum development.
+-Spring 2023 - MTH 299 Transitions, 1 section.
+-Fall 2022 - MTH 103A College Algebra I, 2 sections.
 
-**Courses I Have Taught at Michigan State University**
-- [MTH 299 Transitions, section 004, Spring 2023](https://reg.msu.edu/Courses/Search.aspx?CourseID=353800#Results){:target="_blank"}
-- [MTH 103A College Algebra I, sections 010 and 012, Fall 2022](https://reg.msu.edu/Courses/Search.aspx?SubjectCode=mth&Term=current&CourseNumber=103A#Results){:target="_blank"}
+**Courses taught at University of Virginia**
+-Fall 2021 - MATH 1320 Calculus II, 1 section.
+-Fall 2020 - MATH 1140 Financial Mathematics, 1 section.
+-Fall 2018 - MATH 1320 Calculus II, 1 section.
+-Spring 2018 - MATH 1210 A Survey of Calculus I (formerly called Applied Calculus I), 1 section.
+-Fall 2017 - MATH 1210 A Survey of Calculus I (formerly called Applied Calculus I), 1 section.
+-Spring 2017 - MATH 1210 A Survey of Calculus I (formerly called Applied Calculus I), 1 section.
+-Fall 2016 - MATH 1310 Calculus I, 2 discussion sections.
 
-**Courses I Have Taught at the University of Virginia**
-- [Math 1320 Calculus II, Fall 2021](https://louslist.org/sectiontip.php?Semester=1218&ClassNumber=13269){:target="_blank"}
-- [Math 1140 Financial Mathematics, Fall 2020 (online)](https://louslist.org/sectiontip.php?Semester=1208&ClassNumber=15477){:target="_blank"}
-- [Math 1320 Calculus II, Fall 2018](https://louslist.org/sectiontip.php?Semester=1188&ClassNumber=10416){:target="_blank"}
-- [Math 1210 A Survey of Calculus I, Spring 2018](https://louslist.org/sectiontip.php?Semester=1182&ClassNumber=11123){:target="_blank"}
-- [Math 1210 A Survey of Calculus I, Fall 2017](https://louslist.org/sectiontip.php?Semester=1178&ClassNumber=10455){:target="_blank"}
-- [Math 1210 A Survey of Calculus I, Spring 2017](https://louslist.org/sectiontip.php?Semester=1172&ClassNumber=10769){:target="_blank"}
-
-**Courses I Have TA'd at the University of Virginia**
-- [Math 1310-301 Calculus I, Fall 2016](https://louslist.org/sectiontip.php?Semester=1168&ClassNumber=10804){:target="_blank"}
-- [Math 1310-401 Calculus I, Fall 2016](https://louslist.org/sectiontip.php?Semester=1168&ClassNumber=10805){:target="_blank"}
+**MSU Summer Topology Program**
+-Knot Theory mini course lecturer, 2023.
 
 **University of Virginia Directed Reading Program**
-- [Served as Mentor, Mentee: Nick Cooney, Project: Grid Homology, Spring 2021](https://math.virginia.edu/drp/){:target="_blank"}
+- Served as Mentor, Mentee: Nick Cooney, Project: Grid Homology, Spring 2021.
 
-**University of Virginia Research Experience for Undergraduates**
-- [Served as TA, Project: Alexander Invariants and Bridge Trisections, Summer 2021](https://uva.theopenscholar.com/reu/program){:target="_blank"}
-- [Served as TA, Project: Braided disks in 4-space, Summer 2020](https://uva.theopenscholar.com/ken-ono/reu-archives-2020s-archive-2020){:target="_blank"}
-
-**University of Virginia Math Circle**
-- [Served as TA, Fall 2019](https://math.virginia.edu/2017/11/math-circle/){:target="_blank"}
-- [Served as TA, Fall 2018](https://math.virginia.edu/2017/11/math-circle/){:target="_blank"}
+**University of Virginia Research Experiences for Undergraduates (REU)**
+- Teaching assistant, Project: Alexander Invariants and Bridge Trisections, Summer 2021.
+- Teaching assistant, Project: Braided disks in 4-space, Summer 2020.
 
 **University of Virginia Teaching Mentor for 2nd Year Math Graduate Students**
-- Fall 2020
-- Fall 2018
+- Fall 2020.
+- Fall 2018.
+
+**University of Virginia Math Circle**
+- Teaching assistant, Fall 2019.
+- Teaching assistant, Fall 2018.
+
+**Awards**
+- All-University Graduate Teaching Award, University of Virginia 2021.
