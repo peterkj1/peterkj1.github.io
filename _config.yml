@@ -67,7 +67,7 @@ dblp_url: # your DBLP profile url
 contact_note: >
   You can reach me at pkj4vj@virginia.edu
 
-google_analytics: UA-206153947-1 # out your google-analytics code
+google_analytics: # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
@@ -150,7 +150,7 @@ github: [metadata]
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    true  # enables google analytics
+enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_mansory:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)

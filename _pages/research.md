@@ -7,13 +7,14 @@ nav: true
 page_order: 2
 ---
 
-**Publications and Preprints**
-- Knot lattice homology and $$q$$-series invariants for plumbed knot complements, with R. Akhmechet and S. Park.\
-[arXiv:2403.14461](https://arxiv.org/abs/2403.14461){:target="_blank"}
-- Lattice cohomology and $$q$$-series invariants of $$3$$-manifolds, with R. Akhmechet and V. Krushkal.\
-[J. Reine Angew. Math. 796 (2023), 269–299.](https://www.degruyter.com/document/doi/10.1515/crelle-2022-0096/html?lang=en) [arXiv:2109.14139](https://arxiv.org/abs/2109.14139){:target="_blank"}
+**Publications**
+- Knot lattice homology and $$q$$-series invariants for plumbed knot complements (with Rostislav Akhmechet and Sunghyuk Park).\
+[Quantum Topology (2025), published online first.](https://ems.press/journals/qt/articles/14298814){:target="_blank"} [arXiv:2403.14461](https://arxiv.org/abs/2403.14461){:target="_blank"}
 - On the involutive Heegaard Floer homology of negative semi-definite plumbed 3-manifolds with $$b_{1}=1$$.\
-To appear in *Algebraic & Geometric Topology*. [arXiv:2108.13548](https://arxiv.org/abs/2108.13548){:target="_blank"}
+[Algebraic & Geometric Topology 25.2 (2025): 827-885.](https://msp.org/agt/2025/25-2/agt-v25-n2-p06-s.pdf){:target="_blank"} [arXiv:2108.13548](https://arxiv.org/abs/2108.13548){:target="_blank"}
+- Lattice cohomology and $$q$$-series invariants of $$3$$-manifolds (with Rostislav Akhmechet and Vyacheslav Krushkal).\
+[Journal für die reine und angewandte Mathematik (Crelles Journal), vol. 2023, no. 796, 2023, pp. 269-299.](https://www.degruyter.com/document/doi/10.1515/crelle-2022-0096/html?lang=en){:target="_blank"} [arXiv:2109.14139](https://arxiv.org/abs/2109.14139){:target="_blank"}
+
 
 **Awards**
 - Jefferson Scholars Foundation Research Prize, 2021
@@ -36,7 +37,7 @@ To appear in *Algebraic & Geometric Topology*. [arXiv:2108.13548](https://arxiv.
 - Georgia Tech Topology Conference - Lightning Talk, December 2019
 
 **Conferences, Summer Schools, and Workshops**
-- [Michigan Topology Intercity Symposium (MITIS), November 2023.](https://mitis.math.lsa.umich.edu){:target="_blank"}
+- [Michigan Topology Intercity Symposium (MITIS), November 2023.](https://mitis.math.lsa.umich.edu/fall-2023){:target="_blank"}
 - [AMS Spring Southeastern Sectional - Special Session on Contact and Symplectic Topology in Dimensions 3 and 4, March 2023](https://www.ams.org/meetings/sectional/2298_program_ss34.html#title){:target="_blank"}
 - [ICTP - Learning Workshop on BPS States and 3-Manifolds, February - March 2023](https://indico.ictp.it/event/10060){:target="_blank"}
 - [AMS Fall Southeastern Sectional - Special Session on Interactions Between 3- and 4-Manifolds, October 2022](https://www.ams.org/meetings/sectional/2296_program_ss13.html#title){:target="_blank"}
@@ -57,6 +58,6 @@ mathematics of Bob Gompf, University of Texas at Austin, Austin, TX, July 2018](
 December 2017](https://etnyre.math.gatech.edu/TechTopology/2017/index.html){:target="_blank"}
 
 **Other**
-- Co-organizer of Michigan State University Topology and RTG Seminars, 2022-2023 and 2023-2024.
+- Co-organizer of Michigan State University Topology and RTG Seminars, 2022-2024.
 - [Participant of American Institute of Mathematics 4d Topology Community,
 Spring 2021 (virtual) ](https://aimath.org/programs/researchcommunities/4dtopology/){:target="_blank"}
