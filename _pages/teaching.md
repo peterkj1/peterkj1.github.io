@@ -45,4 +45,4 @@ page_order: 3
 - Teaching assistant, Fall 2018.
 
 **Awards**
-- All-University Graduate Teaching Award, University of Virginia 2021.
+- All-University Graduate Teaching Award, University of Virginia 2020-2021.
